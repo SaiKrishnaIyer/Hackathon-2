@@ -26,3 +26,6 @@ Prerequisites
 Python 3.8+
 Django 3.2+
 Git
+![image](https://github.com/SaiKrishnaIyer/Hackathon-2/assets/113880966/0fbcb235-9fe9-497a-915d-5a64f8785773)
+![image](https://github.com/SaiKrishnaIyer/Hackathon-2/assets/113880966/0415fe44-a40c-4ad7-894b-b36878554d5b)
+![image](https://github.com/SaiKrishnaIyer/Hackathon-2/assets/113880966/b34897bd-322d-4bdf-bd05-382608561f61)
