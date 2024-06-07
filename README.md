@@ -1,3 +1,5 @@
+**Presentation Video Link:** "https://drive.google.com/file/d/1xXbvKt7qENqOE9DEytbHdeKcmtddAfJS/view?usp=sharing"
+
 ### E-Commerce Platform Of Handicrafts
 This is a comprehensive e-commerce platform developed as part of a hackathon project. The platform includes features for user registration and account activation via email, product management with multiple images and variants, and a user-friendly interface for browsing and purchasing products.
 
